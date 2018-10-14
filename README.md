@@ -1,2 +1,1 @@
-# hello_world
-my first repository!
+Github - exciting times.
